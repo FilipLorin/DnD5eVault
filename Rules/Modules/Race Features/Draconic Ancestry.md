@@ -2,9 +2,20 @@
 race: "[[Rules/Races/Dragonborn.md|Dragonborn]]"
 ---
 
-You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of [[Resistance]] you gain.
+You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage type and area of your breath weapon. You have [[Resistance]] to that damage type.
 
-#TODO table and selector
+| Dragon Color | Damage Type | Breath Weapon                          |
+| ------------ | ----------- | -------------------------------------- |
+| Black        | #acid       | 5 by 30 ft. line ( #Dexterity save)    |
+| Blue         | #lightning  | 5 by 30 ft. line ( #Dexterity save)    |
+| Brass        | #fire       | 5 by 30 ft. line ( #Dexterity save)    |
+| Bronze       | #lightning  | 5 by 30 ft. line ( #Dexterity save)    |
+| Copper       | #acid       | 5 by 30 ft. line ( #Dexterity save)    |
+| Gold         | #fire       | 15 ft. [[cone]] ( #Dexterity save)     |
+| Green        | #poison     | 15 ft. [[cone]] ( #Constitution  save) |
+| Red          | #fire       | 15 ft. [[cone]] ( #Dexterity save)     |
+| Silver       | #cold       | 15 ft. [[cone]] ( #Constitution save)  |
+| White        | #cold       | 15 ft. [[cone]] ( #Constitution  save) |
+#TODO Selector
 
-## Breath Weapon.
-You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a [[Saving throws|saving throw]], the type of which is determined by your ancestry. The DC of this saving throw is 8 + your #constitution modifier + your [[proficiency bonus]]. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest.
+![[Breath Weapon]]

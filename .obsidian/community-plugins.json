@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-meta-bind-plugin",
   "supercharged-links-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "table-editor-obsidian"
 ]
