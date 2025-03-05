@@ -1,0 +1,3 @@
+If your character has a pirate background, you may select this background feature instead of Ship's Passage.
+
+No matter where you go, people are afraid of you due to your reputation. When you are in a civilised settlement, you can get away with minor criminal offences, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.
