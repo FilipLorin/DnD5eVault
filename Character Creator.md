@@ -1,6 +1,6 @@
 ---
 class: "[[Rules/Classes/Sorcerer.md|Sorcerer]]"
-race: "[[Rules/Races/Gnome.md|Gnome]]"
+race: "[[Rules/Races/Elf.md|Elf]]"
 level: "1"
 background: "[[Rules/Backgrounds/Noble.md|Noble]]"
 ---

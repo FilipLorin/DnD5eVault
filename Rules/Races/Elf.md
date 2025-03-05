@@ -1,5 +1,5 @@
 ---
-race: Elf
+race: "[[Rules/Races/Elf.md|Elf]]"
 subrace: "[[Rules/Modules/Subraces/Dark Elf.md|Dark Elf]]"
 source: PHB
 ---
