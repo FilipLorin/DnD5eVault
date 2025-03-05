@@ -1,0 +1,15 @@
+- Data
+	- Subraces and Subclasses
+		- Where to store
+	- Multiclassing - class-level attribute
+	- Class features as notes
+- Character Creator
+	- "Build Character Sheet" functionality
+		- Create new note, then add metadata
+		- Embeds generated with Templater
+	- Race and class specific choices
+	- Ability score calculations
+- Character Sheet
+	- Spell table: Name, Level, Components
+	- Spell slot tracker
+	- Class abilities (by level)

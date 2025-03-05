@@ -1,0 +1,1 @@
+**Nimble.** You can move through the space of any creature that is of a size larger than yours.
