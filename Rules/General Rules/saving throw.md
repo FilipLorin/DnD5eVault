@@ -1,0 +1,5 @@
+---
+aliases:
+  - saving throws
+  - save
+---

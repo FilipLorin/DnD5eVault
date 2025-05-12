@@ -5,7 +5,7 @@ source: PHB
 Ability score increase: +2 #Charisma 
 Languages: #common, #infernal
 Speed: 30 feet (9 m)
-Size: Medium
+Size: #Medium
 
 ## Features:
 - [[Darkvision]]

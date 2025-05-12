@@ -1,4 +1,10 @@
 {
   "cssTheme": "Typomagical",
-  "accentColor": "#c71f40"
+  "accentColor": "#c71f40",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "lithou"
+  ],
+  "showRibbon": false,
+  "theme": "moonstone"
 }

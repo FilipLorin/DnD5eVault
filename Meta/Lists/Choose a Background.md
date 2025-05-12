@@ -1,5 +1,7 @@
 ---
 background: "[[Rules/Backgrounds/Hermit.md|Hermit]]"
+aliases:
+  - background
 ---
 What place you occupied in your society...
 

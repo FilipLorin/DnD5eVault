@@ -1,1 +1,1 @@
-When you roll a 1 on an [[attack roll]], [[ability check]], or [[Saving throws|saving throw]], you can reroll the die. You must use the new result, even if it is a 1.
+When you roll a 1 on an [[attack roll]], [[ability check]], or [[saving throw|saving throw]], you can reroll the die. You must use the new result, even if it is a 1.

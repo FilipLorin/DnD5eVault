@@ -1,4 +1,4 @@
 ---
 aliases:
-  - saving throw
+  - rapiers
 ---

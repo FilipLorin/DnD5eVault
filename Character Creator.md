@@ -30,9 +30,6 @@ INPUT[number(defaultValue(1)):level]
 ```
 
 
-
-
-
 ```meta-bind-button
 style: primary
 label: Generate Character Sheet
@@ -40,12 +37,3 @@ action:
  type: command
  command: open
 ```
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,1 @@
+You gain [[proficiency]] in two [[Skills]] of your choice.

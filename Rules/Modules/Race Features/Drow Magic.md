@@ -1,0 +1,1 @@
+You know the [[Dancing Lights]] cantrip. When you reach 3rd level, you can cast the [[Faerie Fire]] spell once with this trait and regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Darkness]] spell once and regain the ability to do so when you finish a [[long rest]]. Charisma is your spellcasting ability for these spells.

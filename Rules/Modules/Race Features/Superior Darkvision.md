@@ -1,0 +1,1 @@
+Your [[darkvision]] has a range of 120 feet, instead of 60.

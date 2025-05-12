@@ -1,0 +1,15 @@
+div[src$="#portrait"] {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 250px;
+}
+
+div[src$="#side"] {
+  position: relative;
+  float: left;
+  width: 35%;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 12px;
+}

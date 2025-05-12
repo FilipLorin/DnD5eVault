@@ -3,6 +3,9 @@
 		- Where to store
 	- Multiclassing - class-level attribute
 	- Class features as notes
+	- Race alignment
+	- Background personality traits
+	- Skills, Abilities, Damage types, patterns etc as headers in a note
 - Character Creator
 	- "Build Character Sheet" functionality
 		- Create new note, then add metadata
@@ -13,3 +16,4 @@
 	- Spell table: Name, Level, Components
 	- Spell slot tracker
 	- Class abilities (by level)
+- 
