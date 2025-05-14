@@ -52,7 +52,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ![[Lay on Hands]]
 
-![[Fighting Style (Paladin)]]
+![[Fighting Style#Fighting Style - Paladin]]
 
 ![[Spellcasting (Paladin)]]
 
