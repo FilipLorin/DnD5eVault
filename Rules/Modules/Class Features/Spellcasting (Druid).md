@@ -1,4 +1,4 @@
-### Spellcasting
+### Spellcasting (Druid)
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
 ##### Cantrips
