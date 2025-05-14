@@ -8,7 +8,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 - [[Fiend patron]]
 - [[Genie patron]]
 - [[Great Old One patron]]
-- [[Hexblade patron]]
+- [[Hexblade]]
 - [[Undead patron]]
 - [[Undying patron]]
 
