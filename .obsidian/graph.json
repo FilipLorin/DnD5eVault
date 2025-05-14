@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-path:Characters  -path:Rules/Lists  -file:proficiency -file:\"ability modifier\"",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 315,
-  "scale": 0.098691804078693,
+  "scale": 0.2797343221801861,
   "close": true
 }
