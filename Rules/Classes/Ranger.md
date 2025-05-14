@@ -67,7 +67,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 
 ![[Ability Score Improvement]]
- ![[Martial Versatility (Optional)#Ranger]]
+ ![[Martial Versatility (Optional)#Martial Versatility (Optional) - Ranger]]
 
 ![[Extra Attack (Ranger)]]
 
