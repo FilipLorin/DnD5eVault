@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 7580786
       }
+    },
+    {
+      "query": "path:\"Rules/General Rules/Skills\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14448408
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 9.21875,
   "linkStrength": 1,
   "linkDistance": 315,
-  "scale": 0.27221091913318435,
+  "scale": 0.347233481239809,
   "close": true
 }
