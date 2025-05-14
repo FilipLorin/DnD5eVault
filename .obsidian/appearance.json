@@ -6,5 +6,6 @@
     "lithou"
   ],
   "showRibbon": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true
 }

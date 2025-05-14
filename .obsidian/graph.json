@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Characters  ",
+  "collapse-filter": false,
+  "search": "-path:Characters  -path:Rules/Lists  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 45,
-  "scale": 0.4863316970864783,
+  "scale": 0.3753623453438605,
   "close": true
 }
