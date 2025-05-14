@@ -60,31 +60,17 @@ You start with the following equipment, in addition to the equipment granted by 
 ![[Bard College]]
 
 
-### Expertise
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+![[Expertise#Expertise - Bard]]
 
-At 10th level, you can choose another two skill proficiencies to gain this benefit.
+![[Ability Score Improvement]]
 
-### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Bardic Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
-- Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.
-- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the [bard spell list](http://dnd5e.wikidot.com/spells:bard).
+![[Bardic Versatility (Optional)]]
 
-### Font of Inspiration
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+![[Font of Inspiration]]
 
-### Countercharm
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+![[Countercharm]]
 
-### Magical Secrets
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+![[Magical Secrets]]
 
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
-
-You learn two additional spells from any classes at 14th level and again at 18th level.
-
-### Superior Inspiration
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+![[Superior Inspiration]]
