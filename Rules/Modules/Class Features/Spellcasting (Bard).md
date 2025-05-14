@@ -1,11 +1,10 @@
-### Spellcasting (Bard)
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
 
 ##### Cantrips
-You know two cantrips of your choice from the [bard spell list](http://dnd5e.wikidot.com/spells:bard). You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
+You know two cantrips of your choice from the [[bard spell list]]. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
 
 ##### Spell Slots
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds) and have a 1st-level and a 2nd-level spell slot available, you can cast [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds) using either slot.
+The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[long rest]]. For example, if you know the 1st-level spell [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds) and have a 1st-level and a 2nd-level spell slot available, you can cast [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds) using either slot.
 
 ##### Spells Known of 1st Level and Higher
 You know four 1st-level spells of your choice from the [bard spell list](http://dnd5e.wikidot.com/spells:bard).
@@ -22,7 +21,7 @@ Charisma is your spellcasting ability for your bard spells. Your magic comes fro
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
 ##### Ritual Casting
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+You can cast any bard spell you know as a [[ritual]] if that spell has the ritual tag.
 
 ##### Spellcasting Focus
-You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.
+You can use a [[musical instrument]] (found in chapter 5) as a [[spellcasting focus]] for your bard spells.
