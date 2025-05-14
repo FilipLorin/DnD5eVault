@@ -1,10 +1,10 @@
+## Eldritch Invocations
 In your study of occult lore, you have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
 At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-## Eldritch Invocations
 ## Agonizing Blast
 Source: Player's Handbook  
 **_Prerequisite:_ [eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast) _cantrip_**
@@ -342,4 +342,4 @@ You can cast _[speak with dead](https://dnd5e.wikidot.com/spell:speak-with-dead)
 Source: Player's Handbook  
 **_Prerequisite: 15th level_**
 
-You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+You can see the true form of any [[shapechanger]] or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
