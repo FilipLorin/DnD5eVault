@@ -5,3 +5,6 @@ Whenever you reach a level in this class that grants the [[Ability Score Improve
 
 ### Martial Versatility (Optional) - Ranger
 Whenever you reach a level in this class that grants the [[Ability Score Improvement]] feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+## Martial Versatility (Optional) - Paladin
+Whenever you reach a level in this class that grants the [[Ability Score Improvement]] feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
