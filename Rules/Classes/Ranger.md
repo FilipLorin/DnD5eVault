@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ![[Deft Explorer (Optional)]]
 
-![[Fighting Style (Ranger)]]
+![[Fighting Style#Fighting Style - Ranger]]
 
 ![[Spellcasting (Ranger)]]
 
