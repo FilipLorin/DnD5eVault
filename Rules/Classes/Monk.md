@@ -19,7 +19,7 @@ _You must have a #Dexterity score and a #Wisdom score of 13 or higher in order t
 | 12th     | +4                                 | 1d8          | 12        | +20 ft.            | [[Ability Score Improvement]]                                            |
 | 13th     | +5                                 | 1d8          | 13        | +20 ft.            | [[Tongue of the Sun and Moon]]                                               |
 | 14th     | +5                                 | 1d8          | 14        | +25 ft.            | [[Diamond Soul]]                                                             |
-| 15th     | +5                                 | 1d8          | 15        | +25 ft.            | [[Timeless Body]]                                                            |
+| 15th     | +5                                 | 1d8          | 15        | +25 ft.            | [[Timeless Body (Monk)]]                                                            |
 | 16th     | +5                                 | 1d8          | 16        | +25 ft.            | [[Ability Score Improvement]]                                            |
 | 17th     | +6                                 | 1d10         | 17        | +25 ft.            | [[Monastic Tradition]] feature                                               |
 | 18th     | +6                                 | 1d10         | 18        | +30 ft.            | [[Empty Body]]                                                               |
@@ -90,7 +90,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ![[Diamond Soul]]
 
-![[Timeless Body]]
+![[Timeless Body (Monk)]]
 
 ![[Empty Body]]
 
