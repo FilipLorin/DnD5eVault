@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 14448408
       }
+    },
+    {
+      "query": "path:Rules/Backgrounds  ",
+      "color": {
+        "a": 1,
+        "rgb": 4729460
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 9.21875,
   "linkStrength": 1,
   "linkDistance": 315,
-  "scale": 0.17978993189448517,
+  "scale": 0.24551720266593377,
   "close": true
 }
