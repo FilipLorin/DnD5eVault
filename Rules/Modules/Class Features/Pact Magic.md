@@ -24,3 +24,4 @@ Charisma is your [[spellcasting ability]] for your [[Warlock Spell List|warlock 
 
 ##### Spellcasting Focus
 You can use an [[arcane focus]] as a spellcasting focus for your warlock spells.
+
