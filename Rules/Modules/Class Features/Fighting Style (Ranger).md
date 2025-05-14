@@ -8,3 +8,5 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 - **Thrown Weapon Fighting.** You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
     - In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 - **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+#TODO Combine with fighter?
