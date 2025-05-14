@@ -28,4 +28,6 @@ You must have a #Wisdom score of 13 or higher in order to [[multiclass]] in or o
 | 20th  | +6                                 | [[Divine Intervention]] improvement                                                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 
+[[Cleric Spell List]]
+
 #TODO Basic stats and proficiencies
