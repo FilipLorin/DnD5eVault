@@ -9,7 +9,7 @@ The Warlock table shows how many spell slots you have to cast your warlock spell
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[Witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ##### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the [[warlock spell list]].
+At 1st level, you know two 1st-level spells of your choice from the [[Warlock Spell List]].
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
