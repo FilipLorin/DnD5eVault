@@ -36,7 +36,7 @@ As a monk, you gain the following class features.
 
 #### Proficiencies
 **Armor:** None  
-**Weapons:** [[Simple weapons]], [[shortsword|shortswords]]  
+**Weapons:** [[simple weapons]], [[shortsword|shortswords]]  
 **Tools:** Choose one type of [[artisan's tools]] or one [[musical instrument]]  
 **Saving Throws:** #Strength, #Dexterity  
 **Skills:** Choose two from [[Acrobatics]], [[Athletics]], [[History]], [[Insight]], [[Religion]], and [[Stealth]]

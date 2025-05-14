@@ -38,7 +38,7 @@ As a rogue, you gain the following class features.
 
 ##### Proficiencies
 **Armor:** [[Light armor]]  
-**Weapons:** [[Simple weapons]], [[crossbow, hand|hand crossbows]], [[longsword|longswords]], [[rapier|rapiers]], [[shortsword|shortswords]]  
+**Weapons:** [[simple weapons]], [[crossbow, hand|hand crossbows]], [[longsword|longswords]], [[rapier|rapiers]], [[shortsword|shortswords]]  
 **Tools:** [[Thieves' tools]]  
 **Saving Throws:** #Dexterity, #Intelligence  
 **Skills:** Choose four from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]]
