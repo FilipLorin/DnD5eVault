@@ -47,7 +47,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a [[crossbow, light|light crossbow]] and 20 bolts or (b) two [[handaxe|handaxes]]
 - (a) a [[dungeoneer's pack]] or (b) an [[explorer's pack]]
 
-![[Fighting Style]]
+![[Fighting Style (Fighter)]]
 
 
 ![[Second Wind]]
