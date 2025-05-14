@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Characters  -path:Rules/Lists  ",
+  "search": "-path:Characters  -path:Rules/Lists  -file:proficiency",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
