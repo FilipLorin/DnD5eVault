@@ -6,7 +6,7 @@ _For some, their rage springs from a communion with fierce animal spirits. Other
 | 2nd   | +2                                 | [[Reckless Attack]], [[Danger Sense]]                        | 2         | +2          |
 | 3rd   | +2                                 | [[Primal Path]], _Primal Knowledge (Optional)_               | 3         | +2          |
 | 4th   | +2                                 | [[Ability Score Improvement]]                        | 3         | +2          |
-| 5th   | +3                                 | [[Extra Attack]], [[Fast Movement]]                          | 3         | +2          |
+| 5th   | +3                                 | [[Extra Attack (Fighter)]], [[Fast Movement]]                          | 3         | +2          |
 | 6th   | +3                                 | [[Primal Path\|Path feature]]                                | 4         | +2          |
 | 7th   | +3                                 | [[Feral Instinct]], _Instinctive Pounce (Optional)_          | 4         | +2          |
 | 8th   | +3                                 | [[Ability Score Improvement]]                        | 4         | +2          |

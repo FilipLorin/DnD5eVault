@@ -9,7 +9,7 @@ _You must have a #Dexterity score and a #Wisdom score of 13 or higher in order t
 | 2nd      | +2                                 | 1d4          | 2         | +10 ft.            | [[Ki]], [[Unarmored Movement]], _[[Dedicated Weapon (Optional)]]_                    |
 | 3rd      | +2                                 | 1d4          | 3         | +10 ft.            | [[Monastic Tradition]], [[Deflect Missiles]], _[[Ki-Fueled Attack (Optional)]]_      |
 | 4th      | +2                                 | 1d4          | 4         | +10 ft.            | [[Ability Score Improvement]], [[Slow Fall]], _[[Quickened Healing (Optional)]]_ |
-| 5th      | +3                                 | 1d6          | 5         | +10 ft.            | [[Extra Attack]], [[Stunning Strike]], _[[Focused Aim (Optional)]]_                  |
+| 5th      | +3                                 | 1d6          | 5         | +10 ft.            | [[Extra Attack (Fighter)]], [[Stunning Strike]], _[[Focused Aim (Optional)]]_                  |
 | 6th      | +3                                 | 1d6          | 6         | +15 ft.            | [[Ki-Empowered Strikes]], [[Monastic Tradition]] feature                         |
 | 7th      | +3                                 | 1d6          | 7         | +15 ft.            | [[Evasion]], [[Stillness of Mind]]                                               |
 | 8th      | +3                                 | 1d6          | 8         | +15 ft.            | [[Ability Score Improvement]]                                            |
@@ -72,7 +72,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ![[Quickened Healing (Optional)]]
 
-![[Extra Attack]]
+![[Extra Attack (Fighter)]]
 
 ![[Stunning Strike]]
 
