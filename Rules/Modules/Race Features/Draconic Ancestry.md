@@ -2,7 +2,7 @@
 race: "[[Rules/Races/Dragonborn.md|Dragonborn]]"
 ---
 
-You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage type and area of your breath weapon. You have [[resistance]] to that damage type.
+You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage type and area of your [[breath weapon]]. You have [[resistance]] to that damage type.
 
 | Dragon Color | Damage Type | Breath Weapon                                             |
 | ------------ | ----------- | --------------------------------------------------------- |

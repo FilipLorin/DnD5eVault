@@ -1,0 +1,11 @@
+When you reach 3rd level, you commit yourself to a monastic tradition. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+- [[Way of the Astral Self]]
+- [[Way of the Ascendant Dragon]]
+- [[Way of the Drunken Master]]
+- [[Way of the Four Elements]]
+- [[Way of the Kensei]]
+- [[Way of the Long Death]]
+- [[Way of Mercy]]
+- [[Way of the Open Hand]]
+- [[Way of the Shadow]]
+- [[Way of the Sun Soul]]

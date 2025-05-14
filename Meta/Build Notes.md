@@ -16,4 +16,6 @@
 	- Spell table: Name, Level, Components
 	- Spell slot tracker
 	- Class abilities (by level)
-- 
+- #TODO 
+	- Filter all by level
+	- Filter all by source

@@ -17,7 +17,7 @@ aliases:
 | [[sickle]]       | 1 gp | 1d4 #slashing    | 2 lb.  | [[light (weapon)]]                                  |
 | [[spear]]        | 1 gp | 1d6 #piercing    | 3 lb.  | [[thrown]] (20/60), [[versatile]] (1d8)             |
 
-
+#TODO add proprieties to weapon notes, with dataview tags, query here
 ## Simple Ranged Weapons
 
 | Name                | Cost  | Damage           | Weight  | Properties                                                      |
@@ -26,5 +26,3 @@ aliases:
 | [[dart]]            | 5 cp  | 1d4 #piercing    | 1/4 lb. | [[finesse]], [[thrown]] (20/60)                                 |
 | [[shortbow]]        | 25 gp | 1d6 #piercing    | 2 lb.   | [[ammunition]], [[range]] (80/320), [[two-handed]]              |
 | [[sling]]           | 1 sp  | 1d4 #bludgeoning | —       | [[ammunition]], [[range]] (30/120)                              |
-
-#TODO - split into pages

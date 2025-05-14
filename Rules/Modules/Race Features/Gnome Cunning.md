@@ -1,1 +1,1 @@
-You have advantage on all #Intelligence, #Wisdom, and #Charisma saves against magic.
+You have [[advantage]] on all #Intelligence, #Wisdom, and #Charisma saves against magic.

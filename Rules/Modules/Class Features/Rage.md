@@ -8,7 +8,7 @@ level: "1"
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a #bonus-action.
 
 While raging, you gain the following benefits if you aren't wearing [[heavy armour]]:
-- You have advantage on #Strength checks and #Strength [[saving throw]].
+- You have [[advantage]] on #Strength checks and #Strength [[saving throw]].
 - When you make a [[attack roll|melee weapon attack]]using #Strength, you gain a bonus to the damage roll that increases as you gain levels as a [[barbarian]], as shown in the Rage Damage column of the [[Barbarian]] table.
 - You have resistance to #bludgeoning, #piercing, and #slashing damage.
 

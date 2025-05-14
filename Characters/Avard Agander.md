@@ -23,7 +23,7 @@ Saves: Wis, Cha
 Skills: Athletics, Perception, Intimidation, Deception
 Armour: [[light armor]]
 Weapons: [[simple weapons]]
-Tools: [[navigator's tools]], [[vehicles]] (water)
+Tools: [[navigator's tools]], [[vehicles#Water]]
 
 ### Spells
 [[Create or destroy water]]
@@ -35,5 +35,5 @@ Tools: [[navigator's tools]], [[vehicles]] (water)
 [[Prestidigitation]]
 
 ### Equipment
-[[Leather armor]] (AC11)
-[[Dagger|Daggers]] x2
+[[leather armor]] (AC11)
+[[dagger|Daggers]] x2

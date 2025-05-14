@@ -1,4 +1,4 @@
-#action
-#bonus-action
-#movement
-#free-action
+During your turn you can make one #action, one #bonus-action, use your #movement
+and perform any number of #free-action . 
+
+#reaction 

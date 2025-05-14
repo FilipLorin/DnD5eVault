@@ -9,7 +9,7 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 Source: Player's Handbook  
 **_Prerequisite:_ [eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast) _cantrip_**
 
-When you cast _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, add your Charisma modifier to the damage it deals on a hit.
+When you cast _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, add your #Charisma modifier to the damage it deals on a hit.
 
 ## Armor of Shadows
 Source: Player's Handbook
@@ -56,7 +56,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 Source: Player's Handbook  
 **_Prerequisite: 15th level, Pact of the Chain feature_**
 
-You can cast _[hold monster](https://dnd5e.wikidot.com/spell:hold-monster)_ at will – targeting a celestial, fiend, or elemental – without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast _[hold monster](https://dnd5e.wikidot.com/spell:hold-monster)_ at will – targeting a celestial, fiend, or elemental – without expending a spell slot or material components. You must finish a [[long rest]] before you can use this invocation on the same creature again.
 
 ## Cloak of Flies
 Source: Xanathar's Guide to Everything  
@@ -64,9 +64,9 @@ Source: Xanathar's Guide to Everything
 
 As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
 
-The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
+The aura grants you [[advantage]] on [[Intimidation]])checks but [[disadvantage]] on all other #Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your #Charisma modifier (minimum of 0 damage).
 
-Once you use this invocation, you can't use it again until you finish a short or long rest.
+Once you use this invocation, you can't use it again until you finish a short or [[long rest]].
 
 ## Devil's Sight
 Source: Player's Handbook
@@ -77,11 +77,11 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 Source: Player's Handbook  
 **_Prerequisite: 7th level_**
 
-You can cast _[confusion](https://dnd5e.wikidot.com/spell:confusion)_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast _[confusion](https://dnd5e.wikidot.com/spell:confusion)_ once using a warlock spell slot. You can't do so again until you finish a [[long rest]].
 
 ## Eldritch Mind
 Source: Tasha's Cauldron of Everything  
-You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
+You have [[advantage]] on Constitution saving throws that you make to maintain your [[concentration]] on a spell.
 
 ## Eldritch Sight
 Source: Player's Handbook
@@ -129,9 +129,9 @@ You can use your action to touch a willing humanoid and perceive through its sen
 Source: Xanathar's Guide to Everything  
 **_Prerequisite: 7th level_**
 
-As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have [[Darkvision]] if you don't already have it. This special sight lasts for 1 minute or until your [[concentration]] ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
-Once you use this invocation, you can't use it again until you finish a short or long rest.
+Once you use this invocation, you can't use it again until you finish a short or [[long rest]].
 
 ## Gift of the Depths
 Source: Xanathar's Guide to Everything  
@@ -139,7 +139,7 @@ Source: Xanathar's Guide to Everything
 
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 
-You can also cast _[water breathing](https://dnd5e.wikidot.com/spell:water-breathing)_ without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can also cast _[water breathing](https://dnd5e.wikidot.com/spell:water-breathing)_ without expending a spell slot. You regain the ability to do so when you finish a [[long rest]].
 
 ## Gift of the Ever-Living Ones
 Source: Xanathar's Guide to Everything  
@@ -153,7 +153,7 @@ Source: Tasha's Cauldron of Everything
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a [[long rest]].
 
 As an action, you can magically erase a name on the page by touching it.
 
@@ -161,7 +161,7 @@ As an action, you can magically erase a name on the page by touching it.
 Source: Xanathar's Guide to Everything  
 **_Prerequisite:_ [eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast) _cantrip_**
 
-Once on each of your turns when you hit a creature with your _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, you can move that creature in a straight line 10 feet closer to yourself.
+Once on each of your turns when you hit a creature with your _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, you can move that creature in a straight [[line]] 10 feet closer to yourself.
 
 ## Improved Pact Weapon
 Source: Xanathar's Guide to Everything  
@@ -171,7 +171,7 @@ You can use any weapon you summon with your Pact of the Blade feature as a spell
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.
+Finally, the weapon you conjure can be a [[shortbow]], [[longbow]], [[crossbow, light|light crossbow]], or [[crossbow, heavy|heavy crossbow]].
 
 ## Investment of the Chain Master
 Source: Tasha's Cauldron of Everything  
@@ -183,7 +183,7 @@ When you cast _[find familiar](https://dnd5e.wikidot.com/spell:find-familiar)_, 
 
 - As a bonus action, you can command the familiar to take the Attack action.
 
-- The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+- The familiar's weapon attacks are considered magical for the purpose of overcoming [[immunity]] and [[resistance]] to nonmagical attacks.
 
 - If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 

@@ -1,15 +1,51 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:Characters  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Rules/Races ",
+      "color": {
+        "a": 1,
+        "rgb": 1421074
+      }
+    },
+    {
+      "query": "path:Rules/Classes  ",
+      "color": {
+        "a": 1,
+        "rgb": 1328517
+      }
+    },
+    {
+      "query": "path:Rules/Modules/Subclasses  ",
+      "color": {
+        "a": 1,
+        "rgb": 7569297
+      }
+    },
+    {
+      "query": "path:Rules/Modules/Subraces  ",
+      "color": {
+        "a": 1,
+        "rgb": 7580786
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -2.5,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 45,
-  "scale": 0.41214082963595006,
+  "scale": 0.12250586801836102,
   "close": true
 }

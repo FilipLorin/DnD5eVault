@@ -8,7 +8,7 @@ _Discuss the nature of the ship you previously sailed with your DM. Was it a mer
 _What were your duties on board – boatswain, captain, navigator, cook, or some other position? Who were the captain and first mate? Did you leave your ship on good terms with your fellows, or on the run?_
 
 **Skill Proficiencies:** [[Athletics]], [[Perception]]  
-**Tool Proficiencies:** [[navigator's tools]], [[vehicles]] (water)
+**Tool Proficiencies:** [[navigator's tools]], [[vehicles#Water]]
 **Languages:** None  
 **Equipment:** A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a pouch containing 10 gp
 
