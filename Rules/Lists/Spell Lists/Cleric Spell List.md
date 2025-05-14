@@ -1,3 +1,9 @@
+---
+aliases:
+  - cleric spells
+---
+
+
 ## Cantrips
 
 | Spell Name           | School           | Casting Time | Range   | Duration                         | Components |
