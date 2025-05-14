@@ -17,14 +17,14 @@ You must have a #Wisdom score of 13 or higher in order to [[multiclass]] in or o
 | 9th   | +4                                 |                                                                                                                               | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
 | 10th  | +4                                 | [[Divine Intervention]]                                                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11th  | +4                                 | [[Destroy Undead]] ([[CR]] 2)                                                                                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4                                 | [[Ability Score Improvement]], _[[Cantrip Versatility]] (Optional)_                                                           | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                                 | [[Ability Score Improvement]], _[[Cantrip Versatility (Optional)]]_                                                           | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13th  | +5                                 |                                                                                                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14th  | +5                                 | [[Destroy Undead]] ([[CR]] 3)                                                                                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15th  | +5                                 |                                                                                                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5                                 | [[Ability Score Improvement]], _[[Cantrip Versatility]] (Optional)_                                                           | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                                 | [[Ability Score Improvement]], _[[Cantrip Versatility (Optional)]]_                                                           | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 17th  | +6                                 | [[Destroy Undead]] ([[CR]] 4), [[Divine Domain]] feature                                                                      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18th  | +6                                 | [[Channel Divinity]] (x3)                                                                                                     | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                                 | [[Ability Score Improvement]], _[[Cantrip Versatility ]](Optional)_                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 19th  | +6                                 | [[Ability Score Improvement]], _[[Cantrip Versatility (Optional)]]_                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                                 | [[Divine Intervention]] improvement                                                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Class Features
@@ -32,23 +32,23 @@ As a cleric, you gain the following class features.
 
 ##### Hit Points
 **Hit Dice:** 1d8 per cleric level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
+**Hit Points at 1st Level:** 8 + your Constitution [[ability modifier|modifier]]  
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution [[ability modifier|modifier]] per cleric level after 1st
 
 ##### Proficiencies
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** All simple weapons  
+**Armor:** [[Light armor]], [[medium armor]], [[shields]]  
+**Weapons:** All [[simple weapons]]  
 **Tools:** None  
 **Saving Throws:** Wisdom, Charisma  
-**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+**Skills:** Choose two from [[History]], [[Insight]], [[Medicine]], [[Persuasion]], and [[Religion]]
 
 ##### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- (a) a mace or (b) a warhammer (if proficient)
-- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
-- (a) a priest's pack or (b) an explorer's pack
-- A shield and a holy symbol
+- (a) a [[mace]] or (b) a [[warhammer]] (if [[proficiency|proficient]])
+- (a) scale mail, (b) [[leather armor]], or (c) chain mail (if [[proficiency|proficient]])
+- (a) a [[crossbow, light|light crossbow]] and 20 bolts or (b) any [[simple weapons|simple weapon]]
+- (a) a priest's pack or (b) an [[explorer's pack]]
+- A [[shields|shield]] and a [[holy symbol]]
 
 ![[Spellcasting (cleric)]]
 
