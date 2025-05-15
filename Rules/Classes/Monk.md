@@ -61,7 +61,6 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ![[Monastic Tradition]]
 
-
 ![[Deflect Missiles]]
 
 ![[Ki-Fueled Attack (Optional)]]
