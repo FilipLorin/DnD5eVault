@@ -3,6 +3,7 @@ class: Warlock
 level: 3
 warlock-pact: Blade
 source: PHB
+warlock-level: 3
 ---
 
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.

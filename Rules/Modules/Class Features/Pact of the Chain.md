@@ -3,6 +3,7 @@ class: Warlock
 level: 3
 source: PHB
 warlock-pact: Chain
+warlock-level: 3
 ---
 
 You learn the [[Find Familiar]] spell and can cast it as a [[ritual]]. The spell doesn't count against your number of spells known.

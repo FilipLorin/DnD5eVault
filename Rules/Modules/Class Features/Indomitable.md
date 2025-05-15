@@ -2,6 +2,7 @@
 class: Fighter
 level: 9
 source: PHB
+fighter-level: 9
 ---
 
 ## Indomitable

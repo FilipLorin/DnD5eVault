@@ -2,6 +2,7 @@
 class: Ranger
 level: 3
 source: PHB
+ranger-level: 3
 ---
 
 This 3rd-level feature replaces the [[Primeval Awareness]] feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.

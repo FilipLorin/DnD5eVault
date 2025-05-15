@@ -2,6 +2,7 @@
 class: Warlock
 level: 11
 source: PHB
+warlock-level: 11
 ---
 
 At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.

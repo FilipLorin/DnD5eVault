@@ -2,6 +2,7 @@
 class: Warlock
 level: 1
 source: PHB
+warlock-level: 1
 ---
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.

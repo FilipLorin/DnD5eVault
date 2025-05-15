@@ -2,6 +2,7 @@
 class: Fighter
 level: 4
 source: PHB
+fighter-level: 4
 ---
 
 Whenever you reach a level in this class that grants the [[Ability Score Improvement]] feature, you can do one of the following, as you shift the focus of your martial practice:

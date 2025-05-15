@@ -3,6 +3,7 @@ source: PHB
 level: 3
 warlock-pact: Tome
 class: Warlock
+warlock-level: 3
 ---
 
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.

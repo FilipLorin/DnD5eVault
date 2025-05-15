@@ -8,6 +8,7 @@ race: Human
 [[Monk]] 
 [[Cleric]] - [[Trickery Domain]]
 [[Rogue]] - [[Inquisitive]]
+[[Bard]]
 
 Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 ![portrait|300](gXMs4yi0.jpg)

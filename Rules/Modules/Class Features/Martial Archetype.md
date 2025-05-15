@@ -2,6 +2,7 @@
 class: Fighter
 level: 3
 source: PHB
+fighter-level: 3
 ---
 
 ## Martial Archetype

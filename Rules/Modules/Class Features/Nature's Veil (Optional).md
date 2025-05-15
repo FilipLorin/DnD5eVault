@@ -2,6 +2,7 @@
 class: Ranger
 source: PHB
 level: 10
+ranger-level: 10
 ---
 
 This 10th-level feature replaces the [[Hide in Plain Sight]] feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.

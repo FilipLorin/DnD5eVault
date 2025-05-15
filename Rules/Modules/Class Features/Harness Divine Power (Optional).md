@@ -2,6 +2,7 @@
 class: Paladin
 level: 3
 source: PHB
+paladin-level: 3
 ---
 
 ## Harness Divine Power (Optional) - Paladin

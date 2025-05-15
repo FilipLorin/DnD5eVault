@@ -3,6 +3,7 @@ class: Warlock
 level: 3
 source: PHB
 warlock-pact: Talisman
+warlock-level: 3
 ---
 
 Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.

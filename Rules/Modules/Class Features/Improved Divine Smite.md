@@ -2,6 +2,7 @@
 class: Paladin
 level: 11
 source: PHB
+paladin-level: 11
 ---
 
 ## Improved Divine Smite
