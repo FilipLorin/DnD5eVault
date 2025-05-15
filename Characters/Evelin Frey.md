@@ -1,14 +1,13 @@
 ---
 class: Monk
 level: 1
-cleric-subclass: Trickster Domain
 race: Human
 ---
 [[Human]], [[Entertainer]]
 
+[[Monk]] 
 [[Cleric]] - [[Trickery Domain]]
 [[Rogue]] - [[Inquisitive]]
-[[Monk]] 
 
 Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 ![portrait|300](gXMs4yi0.jpg)
@@ -26,7 +25,7 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 | Strength     | 12    | [Str :: 1]  |
 | Inteligence  | 9     | [Int :: -1] |
 | Wisdom       | 16    | [Wis :: 3]  |
-`dice: 1d20 + Dex`
-AC: `dice: 10 + Dex + Wis`
 
-`= Dex`
+`dice: 1d20 + Dex`
+AC:: `dice: 10 + Dex + Wis`
+
