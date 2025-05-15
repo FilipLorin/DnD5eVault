@@ -1,14 +1,13 @@
 ---
 level: "20"
-class: Druid
+class: []
 ---
 
 ```dataview
-TABLE WITHOUT ID link, level, class, subclass
+TABLE WITHOUT ID file.link AS "Feature", level, class, subclass
 	FROM "Rules/Modules/Class Features"
 	SORT number(level) ASC
 	WHERE level <= this.level
 	WHERE class = this.class
-	WITH file.link AS Fea
 ```
 
