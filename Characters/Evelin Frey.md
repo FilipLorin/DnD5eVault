@@ -5,6 +5,7 @@ race: Human
 monk-level: 3
 cleric-level: 2
 cleric-subclass: Trickster Domain
+monk-subclass: Way of the Open Hand
 ---
 [[Human]], [[Entertainer]]
 
@@ -13,7 +14,8 @@ cleric-subclass: Trickster Domain
 [[Rogue]] - [[Inquisitive]]
 [[Bard]]
 
-Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
+Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa bo zaczął się dobierać do niej i koleżanek.
+
 ![portrait|300](gXMs4yi0.jpg)
 
 
