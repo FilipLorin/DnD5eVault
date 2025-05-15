@@ -5,6 +5,7 @@ race: Human
 monk-level: 1
 rogue-level: 1
 cleric-level: 3
+cleric-subclass: Trickster Domain
 ---
 [[Human]], [[Entertainer]]
 
