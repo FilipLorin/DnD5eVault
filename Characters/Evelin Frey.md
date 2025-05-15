@@ -26,7 +26,9 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 | Strength     | 12    | Str:: 1  |
 | Inteligence  | 9     | Int:: -1 |
 | Wisdom       | 16    | Wis:: 3  |
+Dex:: 3
 
+`dice: 1d20 + Dex`
+AC: `dice: 10 + Dex + Wis`
 
-`dice: 1d20+Dex`
-AC: `dice: 10+Dex+Wis`
+`=Dex`
