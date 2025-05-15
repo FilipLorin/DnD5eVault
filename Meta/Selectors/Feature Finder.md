@@ -1,10 +1,10 @@
 ---
 level: "20"
-class: Barbarian
+class: Druid
 ---
 
 ```dataview
-LIST 
+Table 
 	FROM "Rules/Modules/Class Features"
 	WHERE level <= this.level
 	WHERE class = this.class
