@@ -1,5 +1,5 @@
 ---
-source: PHB
+source: XGE
 level: 3
 class: Rogue
 rogue-subclass: Inquisitive

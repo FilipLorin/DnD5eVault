@@ -1,7 +1,7 @@
 ---
 class: Rogue
 rogue-subclass: Inquisitive
-source: PHB
+source: XGE
 level: 17
 ---
 
