@@ -1,8 +1,8 @@
 ---
 class: Ranger
 level: "10"
+source: PHB
 ---
-
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
