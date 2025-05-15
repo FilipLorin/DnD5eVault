@@ -1,6 +1,6 @@
 ---
 class: Cleric
-subclass: Trickster Domain
+cleric-subclass: Trickster Domain
 level: "1"
 ---
 

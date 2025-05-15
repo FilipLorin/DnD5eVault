@@ -1,5 +1,5 @@
 ---
-rogue-subclass: inquisitive
+rogue-subclass: Inquisitive
 level: "3"
 ---
 

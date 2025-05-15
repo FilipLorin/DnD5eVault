@@ -1,6 +1,6 @@
 ---
 class: Cleric
-subclass: Trickster Domain
+cleric-subclass: Trickster Domain
 level: "8"
 cleric-level: "8"
 source: PHB
