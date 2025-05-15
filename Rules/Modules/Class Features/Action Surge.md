@@ -1,5 +1,5 @@
 ---
-level: "2"
+level: 2
 class: Fighter
 ---
 

@@ -1,7 +1,7 @@
 ---
 source: PHB
 class: Wizard
-level: "1"
+level: 1
 ---
 
 

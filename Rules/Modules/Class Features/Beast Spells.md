@@ -1,6 +1,7 @@
 ---
-level: "18"
+level: 18
 class: Druid
+source: PHB
 ---
 
 ### Beast Spells
