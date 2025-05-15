@@ -1,8 +1,8 @@
 ---
 source: PHB
 class: Monk
-monk-level: "7"
-rogue-level: "7"
+monk-level: 7
+rogue-level: 7
 level: 7
 ---
 

@@ -2,6 +2,7 @@
 source: PHB
 class: Barbarian
 level: 7
+barbarian-level: 7
 ---
 
 By 7th level, your instincts are so honed that you have [[advantage]] on initiative rolls.

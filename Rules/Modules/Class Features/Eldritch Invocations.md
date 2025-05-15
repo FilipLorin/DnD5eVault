@@ -1,7 +1,7 @@
 ---
 class: Warlock
 level: 2
-warlock-level: "2"
+warlock-level: 2
 source: PHB
 ---
 

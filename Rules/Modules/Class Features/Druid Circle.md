@@ -1,7 +1,7 @@
 ---
 class: Druid
 level: 2
-druid-level: "2"
+druid-level: 2
 source: PHB
 ---
 

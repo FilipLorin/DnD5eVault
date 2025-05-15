@@ -3,6 +3,7 @@ class: Rogue
 rogue-subclass: Inquisitive
 source: XGE
 level: 17
+rogue-level: 17
 ---
 
 

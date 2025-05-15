@@ -1,7 +1,8 @@
 ---
-class: Barbarian
+class: Ranger
 level: 18
 source: PHB
+ranger-level: 18
 ---
 
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose [[disadvantage]] on your attack rolls against it.

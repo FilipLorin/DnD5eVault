@@ -2,6 +2,7 @@
 class: Warlock
 level: 4
 source: PHB
+warlock-level: 4
 ---
 
 Whenever you reach a level in this class that grants the [[Ability Score Improvement]] feature, you can do one of the following, representing a change of focus in your occult studies:

@@ -2,6 +2,7 @@
 class: Ranger
 level: 1
 source: PHB
+ranger-level: 1
 ---
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.

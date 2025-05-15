@@ -1,7 +1,8 @@
 ---
-class: Ranger
-level: 2
 source: PHB
+ranger-level: 2
+fighter-level: 1
+paladin-level: 2
 ---
 
 ## Fighting Style - Fighter
