@@ -4,7 +4,7 @@ TABLE WITHOUT ID file.link AS "Feature", level, link(class) AS class, link(subcl
 	FROM "Rules/Modules/Class Features"
 	SORT number(level) ASC
 	WHERE level <= this.level
-	WHERE class = this.class
+	AND class = this.class
 ```
 
 

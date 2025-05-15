@@ -17,6 +17,7 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 [[Feature Finder]]
 ```
 
+
 | Ability      | Score | Modifier    |
 | ------------ | ----- | ----------- |
 | Charisma     | 14    | [Cha :: 2]  |
