@@ -1,7 +1,7 @@
 ---
 class: Paladin
 source: PHB
-level: "2"
+level: 2
 ---
 
 ## Divine Smite

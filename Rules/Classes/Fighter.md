@@ -2,28 +2,28 @@
 
 _You must have a #Dexterity or #Strength score of 13 or higher in order to [[multiclass]] in or out of this class._
 
-| Level | [[proficiency\|Proficiency Bonus]] | Features                                                    |
-| ----- | ----------------- | ----------------------------------------------------------- |
-| 1st   | +2                | Fighting Style, [[Second Wind]]                                 |
-| 2nd   | +2                | [[Action Surge]] (x1)                                           |
-| 3rd   | +2                | [[Martial Archetype]]                                           |
-| 4th   | +2                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 5th   | +3                | [[Extra Attack (Fighter)]] (x1)                                           |
-| 6th   | +3                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 7th   | +3                | [[Martial Archetype]] feature                                   |
-| 8th   | +3                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 9th   | +4                | [[Indomitable]] (x1)                                            |
-| 10th  | +4                | [[Martial Archetype]] feature                                   |
-| 11th  | +4                | [[Extra Attack (Fighter)]] (x2)                                           |
-| 12th  | +4                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 13th  | +5                | [[Indomitable]] (x2)                                            |
-| 14th  | +5                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 15th  | +5                | [[Martial Archetype]] feature                                   |
-| 16th  | +5                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 17th  | +6                | [[Action Surge]] (x2), [[Indomitable]] (x3)                         |
-| 18th  | +6                | [[Martial Archetype]] feature                                   |
-| 19th  | +6                | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
-| 20th  | +6                | [[Extra Attack (Fighter)]] (x3)                                           |
+| Level | [[proficiency\|Proficiency Bonus]] | Features                                                            |
+| ----- | ---------------------------------- | ------------------------------------------------------------------- |
+| 1st   | +2                                 | [[Fighting Style]], [[Second Wind]]                                 |
+| 2nd   | +2                                 | [[Action Surge]] (x1)                                               |
+| 3rd   | +2                                 | [[Martial Archetype]]                                               |
+| 4th   | +2                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 5th   | +3                                 | [[Extra Attack (Fighter)]] (x1)                                     |
+| 6th   | +3                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 7th   | +3                                 | [[Martial Archetype]] feature                                       |
+| 8th   | +3                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 9th   | +4                                 | [[Indomitable]] (x1)                                                |
+| 10th  | +4                                 | [[Martial Archetype]] feature                                       |
+| 11th  | +4                                 | [[Extra Attack (Fighter)]] (x2)                                     |
+| 12th  | +4                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 13th  | +5                                 | [[Indomitable]] (x2)                                                |
+| 14th  | +5                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 15th  | +5                                 | [[Martial Archetype]] feature                                       |
+| 16th  | +5                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 17th  | +6                                 | [[Action Surge]] (x2), [[Indomitable]] (x3)                         |
+| 18th  | +6                                 | [[Martial Archetype]] feature                                       |
+| 19th  | +6                                 | [[Ability Score Improvement]], _[[Martial Versatility (Optional)]]_ |
+| 20th  | +6                                 | [[Extra Attack (Fighter)]] (x3)                                     |
 
 # Class Features
 As a fighter, you gain the following class features.

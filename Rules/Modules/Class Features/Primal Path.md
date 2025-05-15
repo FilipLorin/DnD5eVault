@@ -1,7 +1,10 @@
 ---
-aliases:
-  - Path feature
+aliases: [Path feature]
+class: Barbarian
+level: "3"
+source: PHB
 ---
+
 At 3rd level, you choose a path that shapes the nature of your rage. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 - [[Path of the Ancestral Guardian]]
 - [[Path of the Battlerager]]
@@ -12,4 +15,3 @@ At 3rd level, you choose a path that shapes the nature of your rage. Your choice
 - [[Path of the Totem Warrior]]
 - [[Path of Wild Magic]]
 - [[Path of the Zealot]]
-

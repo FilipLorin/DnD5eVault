@@ -1,5 +1,5 @@
 ---
-level: "20"
+level: 20
 class: Cleric
 ---
 
@@ -10,4 +10,5 @@ TABLE WITHOUT ID file.link AS "Feature", level, class, subclass
 	WHERE level <= this.level
 	WHERE class = this.class
 ```
+
 
