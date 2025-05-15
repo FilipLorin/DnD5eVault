@@ -1,5 +1,5 @@
 ---
-class: "[[Rules/Classes/Sorcerer.md|Sorcerer]]"
+class: Sorcerer
 race: "[[Rules/Races/Elf.md|Elf]]"
 level: "1"
 background: "[[Rules/Backgrounds/Noble.md|Noble]]"

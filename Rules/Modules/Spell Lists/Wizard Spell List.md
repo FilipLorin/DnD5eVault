@@ -1,5 +1,5 @@
 ---
-class: "[[Wizard]]"
+class: Wizard
 aliases:
   - wizard spells
 ---

@@ -1,5 +1,5 @@
 ---
-class: "[[Rules/Classes/Ranger.md|Ranger]]"
+class: Ranger
 ---
 Your class defines your abilities...
 ```dataview

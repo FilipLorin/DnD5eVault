@@ -1,9 +1,11 @@
 ---
 level: "1"
+class: Barbarian
 ---
 
 ```dataview
 LIST 
 	FROM "Rules/Modules/Class Features"
-	WHERE level <= 
+	WHERE level <= file.level
+	AND class = file.class
 ```

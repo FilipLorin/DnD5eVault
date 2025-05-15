@@ -1,3 +1,8 @@
+---
+level: "20"
+class: Druid
+---
+
 ### Archdruid
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
