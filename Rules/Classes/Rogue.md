@@ -52,7 +52,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Features
 
-![[Expertise]]
+![[Expertise#Expertise - Rogue]]
 
 ![[Sneak Attack]]
 

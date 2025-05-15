@@ -2,7 +2,9 @@
 aliases:
   - raging
 class: Barbarian
+barbarian-level: "1"
 level: "1"
+source: PHB
 ---
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a #bonus-action.
