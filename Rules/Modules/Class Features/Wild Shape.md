@@ -2,6 +2,7 @@
 class: Druid
 level: 2
 source: PHB
+druid-level: 2
 ---
 
 Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or [[long rest]].

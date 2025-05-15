@@ -2,6 +2,7 @@
 class: Cleric
 level: 1
 source: PHB
+cleric-level: 1
 ---
 
 ## Spellcasting (Cleric)

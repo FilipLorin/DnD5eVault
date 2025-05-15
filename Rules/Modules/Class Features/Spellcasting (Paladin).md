@@ -2,6 +2,7 @@
 class: Paladin
 source: PHB
 level: 2
+paladin-level: 2
 ---
 
 ## Spellcasting (Paladin)

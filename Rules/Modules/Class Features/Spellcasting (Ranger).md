@@ -2,6 +2,7 @@
 class: Ranger
 level: 2
 source: PHB
+ranger-level: 2
 ---
 
 ## Spellcasting (Ranger)

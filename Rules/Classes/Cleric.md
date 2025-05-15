@@ -6,7 +6,7 @@ You must have a #Wisdom score of 13 or higher in order to [[multiclass]] in or o
 |       |                                    |                                                                                                                               |                |     |     |     |     |     |     |     |     |     |
 | ----- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Level | [[proficiency\|Proficiency Bonus]] | Features                                                                                                                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2                                 | [[Spellcasting (cleric)]], [[Divine Domain]]                                                                                  | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 1st   | +2                                 | [[Spellcasting (Cleric)]], [[Divine Domain]]                                                                                  | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                                 | [[Channel Divinity]] (x1), [[Divine Domain]] feature, _[[Harness Divine Power (Optional)]]_                                   | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                                 |                                                                                                                               | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
 | 4th   | +2                                 | [[Ability Score Improvement]], _[[Cantrip Versatility (Optional)]]_                                                           | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
@@ -50,7 +50,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest's pack or (b) an [[explorer's pack]]
 - A [[shields|shield]] and a [[holy symbol]]
 
-![[Spellcasting (cleric)]]
+![[Spellcasting (Cleric)]]
 
 ![[Divine Domain]]
 

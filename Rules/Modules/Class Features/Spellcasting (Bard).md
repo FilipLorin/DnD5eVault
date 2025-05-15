@@ -2,6 +2,7 @@
 class: Bard
 source: PHB
 level: 1
+bard-level: 1
 ---
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.

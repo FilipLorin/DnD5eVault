@@ -2,6 +2,7 @@
 class: Wizard
 level: 1
 source: PHB
+wizard-level: 1
 ---
 
 As a student of arcane magic, you have a [[spellbook]] containing spells that show the first glimmerings of your true power.

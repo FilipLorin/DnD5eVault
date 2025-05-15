@@ -3,6 +3,7 @@ level: 1
 class: Warlock
 warlock-patron: Fathomless
 source: TCE
+warlock-level: 1
 ---
 
 At 1st level, you can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.

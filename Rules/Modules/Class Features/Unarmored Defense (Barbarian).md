@@ -1,8 +1,8 @@
 ---
 class: Barbarian
 source: PHB
-level: "1"
-barbarian-level: "1"
+level: 1
+barbarian-level: 1
 ---
 
 
