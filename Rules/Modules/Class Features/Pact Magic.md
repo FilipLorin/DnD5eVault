@@ -24,9 +24,9 @@ Additionally, when you gain a level in this class, you can choose one of the war
 ## Spellcasting Ability
 Charisma is your [[spellcasting ability]] for your [[Warlock Spell List|warlock spells]], so you use your #Charisma whenever a spell refers to your [[spellcasting ability]]. In addition, you use your #Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**[[spell save DC]]** = 8 + your [[proficiency|proficiency bonus]] + your #Charisma [[ability modifier|modifier]]
+**[[spell save DC]]** = 8 + your [[proficiency|proficiency bonus]] + your #Charisma modifier
 
-**Spell attack modifier** = your [[proficiency|proficiency bonus]] + your #Charisma [[ability modifier|modifier]]
+**Spell attack modifier** = your [[proficiency|proficiency bonus]] + your #Charisma modifier
 
 ## Spellcasting Focus
 You can use an [[arcane focus]] as a spellcasting focus for your warlock spells.

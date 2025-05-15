@@ -30,8 +30,8 @@ As a paladin, you gain the following class features.
 
 ##### Hit Points
 **Hit Dice:** 1d10 per paladin level  
-**Hit Points at 1st Level:** 10 + your #Constitution [[ability modifier|modifier]]  
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution [[ability modifier|modifier]] per paladin level after 1st
+**Hit Points at 1st Level:** 10 + your #Constitution modifier
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
 ##### Proficiencies
 **Armor:** All [[armor]], [[shields]]  

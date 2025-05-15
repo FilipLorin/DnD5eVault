@@ -1,7 +1,7 @@
 ---
-aliases:
-  - modifier
+aliases: []
 ---
+
 | Score | Modifier |
 | ----- | -------- |
 | 1     | −5       |
@@ -21,6 +21,7 @@ aliases:
 | 28–29 | +9       |
 | 30    | +10      |
 
-## 4d6 drop lowest
+## Creation Methods
+### 4d6 drop lowest
 `dice: 4d6dl`
 

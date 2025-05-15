@@ -1,4 +1,3 @@
-
 ```dataview
 TABLE WITHOUT ID file.link AS "Feature", level, class, subclass
 	FROM "Rules/Modules/Class Features"
@@ -6,5 +5,3 @@ TABLE WITHOUT ID file.link AS "Feature", level, class, subclass
 	WHERE level <= this.level
 	WHERE class = this.class
 ```
-
-
