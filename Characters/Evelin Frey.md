@@ -5,4 +5,4 @@
 [[Monk]] - [[Way of the Shadow]]
 
 Pracowała jako klaun cyrkowy, trochę jej odbiło
-
+![portrait|300](gXMs4yi0.jpg)
