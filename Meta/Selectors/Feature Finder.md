@@ -1,6 +1,6 @@
 ---
 level: "20"
-class: []
+class: Cleric
 ---
 
 ```dataview
