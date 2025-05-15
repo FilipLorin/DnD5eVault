@@ -17,6 +17,7 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 ```meta-bind-embed
 [[Feature Finder]]
 ```
+`dice: 4d6kh3`
 
 Cha:: 1
 Con:: 0
