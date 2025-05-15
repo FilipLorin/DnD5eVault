@@ -4,7 +4,7 @@ level: 1
 race: Human
 monk-level: 1
 rogue-level: 1
-cleric-level: 3
+cleric-level: 2
 cleric-subclass: Trickster Domain
 ---
 [[Human]], [[Entertainer]]
@@ -35,3 +35,7 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 `dice: 1d20 + Dex`
 AC:: `dice: 10 + Dex + Wis`
 
+
+```meta-bind-embed
+[[Spell Finder]]
+```

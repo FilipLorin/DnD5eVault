@@ -12,7 +12,7 @@ TABLE WITHOUT ID file.link AS "Feature", level, link(class) AS class, link(subcl
 		AND barbarian-subclass = this.barbarian-subclass)
 	OR default(bard-level, 21) <= this.bard-level
 	OR (default(cleric-level, 21) <= this.cleric-level
-		AND cleric-subclass = this.cleric-subclass)
+		AND (cleric-subclass = this.cleric-subclass)
 	OR default(druid-level, 21) <= this.druid-level
 	OR default(fighter-level, 21) <= this.fighter-level
 	OR default(monk-level, 21) <= this.monk-level
