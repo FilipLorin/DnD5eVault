@@ -1,6 +1,7 @@
 ---
 level: 2
 class: Fighter
+fighter-level: 2
 ---
 
 ### Action Surge

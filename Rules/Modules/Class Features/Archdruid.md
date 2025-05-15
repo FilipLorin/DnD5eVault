@@ -2,6 +2,7 @@
 level: 20
 class: Druid
 source: PHB
+druid-level: 20
 ---
 
 At 20th level, you can use your [[Wild Shape]] an unlimited number of times.

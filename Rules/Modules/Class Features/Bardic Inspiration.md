@@ -2,6 +2,7 @@
 class: Bard
 level: 1
 source: PHB
+bard-level: 1
 ---
 
 

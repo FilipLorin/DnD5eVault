@@ -2,6 +2,7 @@
 source: PHB
 class: Paladin
 level: 10
+paladin-level: 10
 ---
 
 Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.

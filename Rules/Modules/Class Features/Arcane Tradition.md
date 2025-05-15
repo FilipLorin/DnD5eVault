@@ -2,6 +2,7 @@
 class: Wizard
 level: 2
 source: PHB
+wizard-level: 2
 ---
 
 
