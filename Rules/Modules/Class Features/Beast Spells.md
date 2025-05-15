@@ -1,5 +1,6 @@
 ---
 level: "18"
+class: Druid
 ---
 
 ### Beast Spells
