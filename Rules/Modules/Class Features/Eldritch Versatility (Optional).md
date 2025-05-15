@@ -1,3 +1,9 @@
+---
+class: Warlock
+level: "4"
+source: PHB
+---
+
 Whenever you reach a level in this class that grants the [[Ability Score Improvement]] feature, you can do one of the following, representing a change of focus in your occult studies:
 - Replace one cantrip you learned from this class's [[Pact Magic]] feature with another cantrip from the warlock spell list.
 - Replace the option you chose for the [[Pact Boon]] feature with one of that feature's other options.
