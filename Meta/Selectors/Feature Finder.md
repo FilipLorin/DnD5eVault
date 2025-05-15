@@ -4,9 +4,9 @@ class: Druid
 ---
 
 ```dataview
-Table 
+TABLE level, class, subclass
 	FROM "Rules/Modules/Class Features"
+	SORT level ASC
 	WHERE level <= this.level
 	WHERE class = this.class
-	SORT level ASC
 ```
