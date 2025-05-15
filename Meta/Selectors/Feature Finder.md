@@ -1,6 +1,6 @@
 ---
 level: 20
-class: Cleric
+class: Ranger
 ---
 
 ```dataview
