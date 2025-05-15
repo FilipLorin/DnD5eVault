@@ -1,3 +1,13 @@
+---
+aliases:
+  - Turn Undead
+class: Cleric
+level: "2"
+cleric-level: "2"
+source: PHB
+---
+
+
 ##### Channel Divinity - Turn Undead
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 

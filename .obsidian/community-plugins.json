@@ -10,5 +10,6 @@
   "better-export-pdf",
   "obsidian-git",
   "shrink-pinned-tabs",
-  "graph-banner"
+  "graph-banner",
+  "obsidian-linter"
 ]
