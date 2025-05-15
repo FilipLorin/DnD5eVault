@@ -18,6 +18,6 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 [[Feature Finder]]
 ```
 
-Dex::+4
+Dex:: 4 (16)
 
-`dice: 1d4+Dex`
+`dice: 1d20+Dex`
