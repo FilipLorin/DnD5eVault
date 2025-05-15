@@ -8,6 +8,7 @@ druid-level: 20
 warlock-level: 20
 sorcerer-level: 20
 bard-level: 20
+paladin-level: 20
 ---
 
 ```dataview
