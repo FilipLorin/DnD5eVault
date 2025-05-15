@@ -1,3 +1,10 @@
+---
+class: Warlock
+level: "2"
+warlock-level: "2"
+source: PHB
+---
+
 ## Eldritch Invocations
 In your study of occult lore, you have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 

@@ -92,7 +92,7 @@
       "enabled": false
     },
     "header-increment": {
-      "enabled": false,
+      "enabled": true,
       "start-at-h2": false
     },
     "headings-start-line": {
@@ -180,7 +180,7 @@
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
@@ -193,7 +193,7 @@
       "enabled": false
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-math-blocks": {
       "enabled": false
@@ -202,12 +202,12 @@
       "enabled": false
     },
     "heading-blank-lines": {
-      "enabled": false,
-      "bottom": true,
+      "enabled": true,
+      "bottom": false,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
       "enabled": false
@@ -234,7 +234,7 @@
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false,
@@ -242,7 +242,7 @@
       "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
-      "enabled": false,
+      "enabled": true,
       "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
