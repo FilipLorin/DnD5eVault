@@ -1,12 +1,12 @@
 ---
-level: "10"
+level: "20"
 class: Barbarian
 ---
 
 ```dataview
 LIST 
 	FROM "Rules/Modules/Class Features"
-	WHERE file.level <= level
-	AND file.class = class
+	WHERE level <= this.level
+	WHERE class = this.class
 	SORT file.level ASC
 ```
