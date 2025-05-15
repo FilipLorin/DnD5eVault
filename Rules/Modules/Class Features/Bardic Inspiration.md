@@ -1,6 +1,7 @@
 ---
 class: Bard
-level:
+level: "1"
+source: PHB
 ---
 
 

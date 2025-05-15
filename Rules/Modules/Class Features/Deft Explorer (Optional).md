@@ -1,3 +1,10 @@
+---
+class: Ranger
+level: "1"
+source: PHB
+---
+
+
 ### Deft Explorer (Optional)
 This 1st-level feature replaces the Natural Explorer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.
 
