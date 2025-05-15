@@ -1,9 +1,8 @@
 ---
-class: Monk
-level: 4
+level: 1
 race: Human
-monk-level: 3
-cleric-level: 2
+monk-level: 1
+cleric-level: 0
 cleric-subclass: Trickster Domain
 monk-subclass: Way of the Open Hand
 ---
