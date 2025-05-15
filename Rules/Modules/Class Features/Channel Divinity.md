@@ -1,6 +1,7 @@
 ---
+source: PHB
 class: Cleric
-level: "2"
+level: 2
 cleric-level: "2"
 ---
 

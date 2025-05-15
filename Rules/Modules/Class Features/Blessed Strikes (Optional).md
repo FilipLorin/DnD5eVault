@@ -1,9 +1,8 @@
 ---
 class: Cleric
-level: "8"
+level: 8
 source: PHB
 ---
-
 
 _Replaces the Divine Strike or Potent Spellcasting feature_
 

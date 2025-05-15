@@ -1,9 +1,8 @@
 ---
 class: Barbarian
-level: "9"
+level: 9
 source: PHB
 ---
-
 
 Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a [[critical hit]] with a melee attack.
 

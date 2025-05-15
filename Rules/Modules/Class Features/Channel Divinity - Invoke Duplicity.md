@@ -2,10 +2,9 @@
 class: Cleric
 source: PHB
 cleric-subclass: Trickster Domain
-level: "2"
+level: 2
 cleric-level: "2"
 ---
-
 
 Starting at 2nd level, you can use your [[Channel Divinity]] to create an illusory duplicate of yourself.
 

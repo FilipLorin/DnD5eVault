@@ -1,10 +1,9 @@
 ---
-level: "14"
+level: 14
 class: Monk
 monk-level: "14"
 source: PHB
 ---
-
 
 Beginning at 14th level, your mastery of [[ki]] grants you [[proficiency]] in all [[saving throw|saving throws]].
 

@@ -1,10 +1,9 @@
 ---
 class: Monk
-level: "3"
+level: 3
 source: PHB
 monk-level: "3"
 ---
-
 
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a [[attack roll|ranged weapon attack]]. When you do so, the damage you take from the attack is reduced by 1d10 + your #Dexterity modifier + your monk level.
 
