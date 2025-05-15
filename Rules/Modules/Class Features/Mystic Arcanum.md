@@ -1,4 +1,10 @@
-### Mystic Arcanum
+---
+class: Warlock
+level: "11"
+source: PHB
+---
+
+## Mystic Arcanum
 At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.
 
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.

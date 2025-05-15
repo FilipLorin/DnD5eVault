@@ -4,8 +4,7 @@ source: PHB
 level: "1"
 ---
 
-
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the [[two-handed]] or heavy property.
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the [[two-handed]] or [[heavy]] property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[shields|shield]]:
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
