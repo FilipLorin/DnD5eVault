@@ -1,6 +1,6 @@
 ---
-level: 20
-class: Ranger
+level: 1
+class: Rogue
 ---
 
 ```dataview
