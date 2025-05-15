@@ -18,17 +18,15 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 [[Feature Finder]]
 ```
 
-| Ability      | Score | Modifier |
-| ------------ | ----- | -------- |
-| Charisma     | 14    | Cha:: 2  |
-| Constitution | 10    | Con:: 0  |
-| Dexterity    | 17    | Dex:: 3  |
-| Strength     | 12    | Str:: 1  |
-| Inteligence  | 9     | Int:: -1 |
-| Wisdom       | 16    | Wis:: 3  |
-Dex:: 3
-
+| Ability      | Score | Modifier    |
+| ------------ | ----- | ----------- |
+| Charisma     | 14    | [Cha :: 2]  |
+| Constitution | 10    | [Con :: 0]  |
+| Dexterity    | 17    | [Dex :: 3]  |
+| Strength     | 12    | [Str :: 1]  |
+| Inteligence  | 9     | [Int :: -1] |
+| Wisdom       | 16    | [Wis :: 3]  |
 `dice: 1d20 + Dex`
 AC: `dice: 10 + Dex + Wis`
 
-`=Dex`
+`= Dex`
