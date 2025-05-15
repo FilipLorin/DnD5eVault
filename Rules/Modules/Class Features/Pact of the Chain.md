@@ -1,6 +1,6 @@
 ---
 class: Warlock
-level: "3"
+level: 3
 source: PHB
 warlock-pact: Chain
 ---

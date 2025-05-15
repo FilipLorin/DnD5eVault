@@ -1,6 +1,6 @@
 ---
 class: Barbarian
-level: "15"
+level: 15
 source: PHB
 ---
 

@@ -1,5 +1,5 @@
 ---
-level: "3"
+level: 3
 class: Warlock
 source: PHB
 ---
@@ -14,9 +14,7 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 
 ![[Pact of the Talisman]]
 
-
 ![[Ability Score Improvement]]
-
 
 ![[Mystic Arcanum]]
 

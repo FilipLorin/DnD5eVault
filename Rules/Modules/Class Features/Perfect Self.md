@@ -1,6 +1,6 @@
 ---
 class: Monk
-level: "20"
+level: 20
 source: PHB
 ---
 

@@ -1,10 +1,9 @@
 ---
 class: Ranger
 source: PHB
-level: "1"
+level: 1
 ---
 
-## Natural Explorer
 Also at 1st level, you are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:

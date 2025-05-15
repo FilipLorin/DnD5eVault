@@ -1,6 +1,6 @@
 ---
 source: PHB
-level: "3"
+level: 3
 warlock-pact: Tome
 class: Warlock
 ---
