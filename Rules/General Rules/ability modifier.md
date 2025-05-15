@@ -20,3 +20,7 @@ aliases:
 | 26–27 | +8       |
 | 28–29 | +9       |
 | 30    | +10      |
+
+## 4d6 drop lowest
+`dice: 4d6dl`
+

@@ -8,7 +8,7 @@ race: Human
 
 [[Cleric]] - [[Trickery Domain]]
 [[Rogue]] - [[Inquisitive]]
-[[Monk]] - [[Way of the Shadow]]
+[[Monk]] 
 
 Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 ![portrait|300](gXMs4yi0.jpg)
@@ -17,21 +17,15 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 ```meta-bind-embed
 [[Feature Finder]]
 ```
-`dice: 4d6kh3`
-
-13, 16, 11, 8, 9, 15
-Charisma
-Constitution
-
 
 | Ability      | Score | Modifier |
 | ------------ | ----- | -------- |
-| Charisma     | 14    | Cha:: 1  |
-| Constitution | 9     | Con:: 0  |
+| Charisma     | 14    | Cha:: 2  |
+| Constitution | 10    | Con:: 0  |
 | Dexterity    | 17    | Dex:: 3  |
 | Strength     | 12    | Str:: 1  |
-| Inteligence  | 10    | Int:: -1 |
-| Wisdom       | 16    | Wis:: 2  |
+| Inteligence  | 9     | Int:: -1 |
+| Wisdom       | 16    | Wis:: 3  |
 
 
 `dice: 1d20+Dex`
