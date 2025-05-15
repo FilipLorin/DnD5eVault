@@ -1,7 +1,8 @@
 ---
-aliases: [raging]
+aliases:
+  - raging
 class: Barbarian
-barbarian-level: "1"
+barbarian-level: 1
 level: 1
 source: PHB
 ---
