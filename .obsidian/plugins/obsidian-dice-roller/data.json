@@ -167,6 +167,13 @@
       "resultText": "2d20kh\n[6, 4d]",
       "timestamp": 1747221388623,
       "id": "r3Mlik4vsRZ9"
+    },
+    {
+      "result": "20",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[6d, 20]",
+      "timestamp": 1747297101624,
+      "id": "4AogK98ZB26T"
     }
   ]
 }
