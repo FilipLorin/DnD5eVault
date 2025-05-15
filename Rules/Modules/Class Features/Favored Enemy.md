@@ -1,10 +1,9 @@
 ---
 class: Ranger
-level: "1"
+level: 1
 source: PHB
 ---
 
-## Favored Enemy
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
 Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.

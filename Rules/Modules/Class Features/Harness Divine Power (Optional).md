@@ -1,6 +1,6 @@
 ---
 class: Paladin
-level: "3"
+level: 3
 source: PHB
 ---
 

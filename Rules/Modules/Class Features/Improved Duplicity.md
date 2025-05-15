@@ -1,7 +1,7 @@
 ---
 source: PHB
 class: Cleric
-level: "17"
+level: 17
 cleric-subclass: Trickster Domain
 ---
 

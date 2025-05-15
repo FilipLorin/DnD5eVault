@@ -1,7 +1,7 @@
 ---
 class: Paladin
 source: PHB
-level: "1"
+level: 1
 ---
 
 ## Lay on Hands

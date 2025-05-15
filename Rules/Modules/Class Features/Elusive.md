@@ -1,6 +1,6 @@
 ---
 class: Rogue
-level: "18"
+level: 18
 source: PHB
 ---
 

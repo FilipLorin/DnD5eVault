@@ -1,7 +1,7 @@
 ---
 source: PHB
 class: Warlock
-level: "14"
+level: 14
 warlock-patron: Fathomless
 ---
 

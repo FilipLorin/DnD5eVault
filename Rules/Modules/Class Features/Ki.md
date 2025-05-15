@@ -1,7 +1,7 @@
 ---
 class: Monk
 source: PHB
-level: "2"
+level: 2
 ---
 
 Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.

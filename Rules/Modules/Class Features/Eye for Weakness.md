@@ -2,7 +2,7 @@
 class: Rogue
 rogue-subclass: Inquisitive
 source: PHB
-level: "17"
+level: 17
 ---
 
 

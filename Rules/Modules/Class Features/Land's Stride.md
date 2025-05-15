@@ -1,6 +1,6 @@
 ---
 class: Ranger
-level: "8"
+level: 8
 source: PHB
 ---
 

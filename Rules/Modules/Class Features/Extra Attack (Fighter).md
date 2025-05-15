@@ -1,6 +1,6 @@
 ---
 class: Fighter
-level: "5"
+level: 5
 source: PHB
 ---
 

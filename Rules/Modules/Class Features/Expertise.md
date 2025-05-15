@@ -2,7 +2,7 @@
 source: PHB
 bard-level: "3"
 rogue-level: "1"
-level: "1"
+level: 1
 ---
 
 ## Expertise - Rogue

@@ -1,10 +1,9 @@
 ---
 class: Ranger
-level: "1"
+level: 1
 source: PHB
 ---
 
-## Favored Foe (Optional)
 This 1st-level feature replaces the Favored Enemy feature and works with the Foe Slayer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.
 
 When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
