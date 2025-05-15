@@ -2,6 +2,9 @@
 class: Monk
 level: 1
 race: Human
+monk-level: 1
+rogue-level: 1
+cleric-level: 3
 ---
 [[Human]], [[Entertainer]]
 
@@ -15,7 +18,7 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa.
 
 
 ```meta-bind-embed
-[[Feature Finder]]
+[[Feature Finder (Multiclass)]]
 ```
 
 
