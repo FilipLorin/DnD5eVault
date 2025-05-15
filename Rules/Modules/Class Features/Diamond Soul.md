@@ -1,7 +1,7 @@
 ---
 level: 14
 class: Monk
-monk-level: "14"
+monk-level: 14
 source: PHB
 ---
 

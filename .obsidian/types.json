@@ -9,6 +9,11 @@
     "fighter-level": "number",
     "druid-level": "number",
     "paladin-level": "number",
-    "bard-level": "number"
+    "bard-level": "number",
+    "cleric-level": "number",
+    "rogue-level": "number",
+    "barbarian-level": "number",
+    "monk-level": "number",
+    "ranger-level": "number"
   }
 }

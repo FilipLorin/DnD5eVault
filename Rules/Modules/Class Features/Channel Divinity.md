@@ -2,7 +2,8 @@
 source: PHB
 class: Cleric
 level: 2
-cleric-level: "2"
+cleric-level: 2
+paladin-level: 3
 ---
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: [[Channel Divinity - Turn Undead|Turn Undead]] and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.

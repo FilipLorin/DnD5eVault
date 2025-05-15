@@ -2,6 +2,7 @@
 class: Paladin
 level: 14
 source: PHB
+paladin-level: 14
 ---
 
 Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.

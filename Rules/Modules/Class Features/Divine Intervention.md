@@ -2,6 +2,7 @@
 class: Cleric
 level: 10
 source: PHB
+cleric-level: 10
 ---
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
