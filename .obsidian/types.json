@@ -15,6 +15,8 @@
     "barbarian-level": "number",
     "monk-level": "number",
     "ranger-level": "number",
-    "warlock-level": "number"
+    "warlock-level": "number",
+    "artificer-level": "number",
+    "sorcerer-level": "number"
   }
 }

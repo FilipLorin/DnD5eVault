@@ -1,3 +1,6 @@
+---
+level: 20
+---
 
 ```dataview
 TABLE WITHOUT ID file.link AS "Feature", level, casting-time, components

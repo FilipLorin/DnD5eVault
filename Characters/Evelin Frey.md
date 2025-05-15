@@ -39,3 +39,5 @@ AC:: `dice: 10 + Dex + Wis`
 ```meta-bind-embed
 [[Spell Finder]]
 ```
+
+#TODO All Spells
