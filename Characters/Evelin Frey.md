@@ -1,9 +1,8 @@
 ---
 class: Monk
-level: 1
+level: 4
 race: Human
-monk-level: 1
-rogue-level: 1
+monk-level: 3
 cleric-level: 2
 cleric-subclass: Trickster Domain
 ---

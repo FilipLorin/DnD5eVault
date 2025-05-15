@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGavel",
-      "LiNotebookPen",
-      "LiToyBrick",
-      "LiVenetianMask",
-      "LiPersonStanding"
+      "LiUserPen",
+      "LiSettings",
+      "LiBrickWall",
+      "LiPuzzle",
+      "LiGavel"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Characters": "LiPersonStanding",
+  "Characters": "LiUserPen",
   "GM": "LiVenetianMask",
-  "Meta": "LiToyBrick",
+  "Meta": "LiSettings",
   "Notes": "LiNotebookPen",
   "Rules": "LiGavel"
 }
