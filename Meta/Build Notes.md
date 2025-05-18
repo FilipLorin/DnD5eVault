@@ -17,4 +17,5 @@
 	- Spell slot tracker
 - TODO
 	-  Split multi-class files, link them together (see also...)
-	- 
+	- Rebuild race system
+	- Use subselectors

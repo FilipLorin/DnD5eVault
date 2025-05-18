@@ -6,7 +6,7 @@ _You come from a humble social rank, but you are destined for so much more. Alre
 **Skill Proficiencies:** [[Animal Handling]], [[Survival]]  
 **Tool Proficiencies:** One type of [[artisan's tools]], [[vehicles#Land]]
 **Languages:** None  
-**Equipment:** A set of artisan's tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a pouch containing 10 gp
+**Equipment:** A set of [[artisan's tools]] (one of your choice), a shovel, an iron pot, a set of common clothes, and a pouch containing 10 gp
 
 ## Features
 - [[Defining Event]]
