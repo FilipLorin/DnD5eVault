@@ -1,17 +1,15 @@
 ---
-level: 1
+level: 3
 race: Human
-monk-level: 1
-cleric-level: 0
-cleric-subclass: Trickster Domain
-monk-subclass: Way of the Open Hand
+monk-level: 2
+rogue-level: 1
+rogue-subclass:
+monk-subclass:
 ---
 [[Human]], [[Entertainer]]
 
 [[Monk]] 
-[[Cleric]] - [[Trickery Domain]]
-[[Rogue]] - [[Inquisitive]]
-[[Bard]]
+[[Rogue]]
 
 Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa bo zaczął się dobierać do niej i koleżanek.
 
@@ -26,18 +24,18 @@ Pracowała jako klaun cyrkowy, trochę jej odbiło. Zamordowała byłego szefa b
 | Ability      | Score | Modifier    |
 | ------------ | ----- | ----------- |
 | Charisma     | 14    | [Cha :: 2]  |
-| Constitution | 10    | [Con :: 0]  |
+| Constitution | 12    | [Con :: 1]  |
 | Dexterity    | 17    | [Dex :: 3]  |
-| Strength     | 12    | [Str :: 1]  |
+| Strength     | 10    | [Str :: 0]  |
 | Inteligence  | 9     | [Int :: -1] |
 | Wisdom       | 16    | [Wis :: 3]  |
 
-`dice: 1d20 + Dex`
 AC:: `dice: 10 + Dex + Wis`
 
 
+
+---
 ```meta-bind-embed
 [[Spell Finder]]
 ```
 
-#TODO All Spells
